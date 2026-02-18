@@ -70,5 +70,5 @@ Through this project, I learned:
 
 ---
 
-## 📌 Dataset Source
+ Dataset Source
 Bank Marketing dataset from the UCI Machine Learning Repository, commonly used for classification and predictive modeling tasks.
